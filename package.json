@@ -17,11 +17,11 @@
     "url": "git@github.com:concisionuk/eslint-config.git"
   },
   "dependencies": {
-    "@vue/cli-plugin-eslint": "^4.0.5",
-    "@vue/eslint-config-standard": "^4.0.0",
-    "babel-eslint": "^10.0.2",
+    "@vue/cli-plugin-eslint": "4.5.13",
+    "@vue/eslint-config-standard": "4.0.0",
+    "babel-eslint": "10.1.0",
     "eslint-config-prettier": "8.3.0",
-    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-friendly-formatter": "4.0.1",
     "eslint-loader": "4.0.2",
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-vue": "7.18.0"
